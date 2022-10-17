@@ -1,0 +1,17 @@
+Bill no: 0
+Order ID: 12
+Client ID: 3
+21/06/2022
+
+Product: """Like a Caesar"" "
+Price: 72
+KCal/ Protein/ Fat/ Sodium
+1600/ 214/ 71/ 1366
+
+Product: """Opulent"" Chicken "
+Price: 83
+KCal/ Protein/ Fat/ Sodium
+660/ 20/ 49/ 1025
+
+
+Total bill: 155
